@@ -1,0 +1,17 @@
+name: k_chart
+description: A Flutter Custom K Chart.
+version: 0.0.1
+homepage: https://github.com/cengizhanerturan/k_chart.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
